@@ -3,7 +3,7 @@ from telebot import types
 
 
 
-token = '5186887028:AAHBwQHKXMgD-dYnGYkHmSWGmtEA5QaQsxY'
+token = "токен"
 bot = telebot.TeleBot(token)
 
 name = ''
